@@ -32,19 +32,19 @@ As of Day 1 (June 5, 2025), the project is in the setup phase:
 - **Dataset**: To be determined (exploring Million Song Dataset, Last.fm, or Spotify API data.
   
 ## Project Timeline
-Days 1–3: Environment setup, dataset selection, Python/ML refresher.
-Days 4–8: Data preprocessing and EDA.
-Days 9–13: Build and test recommendation algorithm.
-Days 14–17: Integrate system and create CLI (optional Flask UI).
-Days 18–20: Test, document, and polish for portfolio.
+- **Days 1–3**: Environment setup, dataset selection, Python/ML refresher.
+- **Days 4–8**: Data preprocessing and EDA.
+- **Days 9–13**: Build and test recommendation algorithm.
+- **Days 14–17**: Integrate system and create CLI (optional Flask UI).
+- **Days 18–20**: Test, document, and polish for portfolio.
 
 ## Learning Journey
 This project is a hands-on learning experience to deepen my understanding of:
-Python for data science and ML.
-Data preprocessing and feature engineering.
-Recommendation systems and similarity metrics.
-Basic web development with Flask.
-Project management with Git and clear documentation.
+- Python for data science and ML.
+- Data preprocessing and feature engineering.
+- Recommendation systems and similarity metrics.
+- Basic web development with Flask.
+- Project management with Git and clear documentation.
 
 ## Contact
 For feedback or questions, reach out via GitHub or at kartik.saraswat@ucdconnect.ie
