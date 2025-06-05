@@ -1,7 +1,7 @@
 # Music Recommender
 
 ## Overview
-This project is a Python-based music recommendation system that suggests songs based on user preferences or song features using machine learning. Built as a 20-day portfolio project, it aims to demonstrate skills in data science, machine learning, and software development. As a beginner in Python and ML, I’m using this project to learn data preprocessing, content-based filtering, and system integration, with the goal of understanding and explaining every component explored during the project.
+This project is a Python-based music recommendation system that suggests songs based on user preferences or song features using machine learning. Built as a 20-day portfolio project, it aims to demonstrate skills in data science, machine learning, and software development. As a beginner in Python and ML, I’m using this project to learn data preprocessing, content-based filtering, and system integration, with the goal of understanding and explaining every component of the project.
 
 ## Project Goals
 - Develop a recommendation system using content-based filtering (e.g., based on song features like genre, tempo).
@@ -29,5 +29,5 @@ As of Day 1 (June 5, 2025), the project is in the setup phase:
 - **Programming**: Python 3.8+
 - **Libraries**: pandas (data manipulation), NumPy (numerical operations), scikit-learn (ML algorithms), Jupyter Notebook (EDA and experimentation)
 - **Tools**: Git, GitHub, VS Code
-- **Dataset**: To be determined (exploring Million Song Dataset, Last.fm, or Spotify API
+- **Dataset**: To be determined (exploring Million Song Dataset, Last.fm, or Spotify API data.
   
