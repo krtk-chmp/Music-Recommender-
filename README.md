@@ -22,7 +22,7 @@ As of Day 1 (June 5, 2025), the project is in the setup phase:
 - Perform EDA to understand song features and user preferences.
 - Implement a content-based recommendation algorithm.
 - Create a simple command-line interface (CLI) for user interaction.
-- Build a basic web interface using Flask if time permits.
+- Explore basic web development with Flask for a simple UI.
 - Evaluate recommendations using metrics like precision.
 
 ## Technologies
