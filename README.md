@@ -26,8 +26,8 @@ As of Day 1 (June 5, 2025), the project is in the setup phase:
 - Evaluate recommendations using metrics like precision.
 
 ## Technologies
-- Programming: Python 3.8+
-- Libraries: pandas (data manipulation), NumPy (numerical operations), scikit-learn (ML algorithms), Jupyter Notebook (EDA and experimentation)
-- Tools: Git, GitHub, VS Code
-- Dataset: To be determined (exploring Million Song Dataset, Last.fm, or Spotify API
+- **Programming**: Python 3.8+
+- **Libraries**: pandas (data manipulation), NumPy (numerical operations), scikit-learn (ML algorithms), Jupyter Notebook (EDA and experimentation)
+- **Tools**: Git, GitHub, VS Code
+- **Dataset**: To be determined (exploring Million Song Dataset, Last.fm, or Spotify API
   
