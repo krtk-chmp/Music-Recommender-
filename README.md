@@ -29,7 +29,7 @@ As of Day 1 (June 5, 2025), the project is in the setup phase:
 - **Programming**: Python 3.8+
 - **Libraries**: pandas (data manipulation), NumPy (numerical operations), scikit-learn (ML algorithms), Jupyter Notebook (EDA and experimentation)
 - **Tools**: Git, GitHub, VS Code
-- **Dataset**: To be determined (exploring Million Song Dataset, Last.fm, or Spotify API data.
+- **Dataset**: - Spotify Million Song Dataset from Hugging Face (vishnupriyavr/spotify-million-song-dataset), 57,650 rows, including artist, song, and text data.
   
 ## Project Timeline
 - **Days 1–3**: Environment setup, dataset selection, Python/ML refresher.
