@@ -46,5 +46,11 @@ This project is a hands-on learning experience to deepen my understanding of:
 - Basic web development with Flask.
 - Project management with Git and clear documentation.
 
+## Things I Did on Day 2
+- Downloaded the Spotify Million Song Dataset (57,650 rows) from Hugging Face and stored it in the `data/` folder.
+- Wrote and tested `load_data.py` to load the dataset using pandas, inspecting the first 5 rows and column details, and created a 10,000-row subset (`spotify_subset.csv`) for efficiency.
+- Created `ml_notes.md` to summarize machine learning concepts, including content-based filtering and cosine similarity, based on beginner resources.
+- Synced the repository with GitHub and pulling updates.
+
 ## Contact
 For feedback or questions, reach out via GitHub or at kartik.saraswat@ucdconnect.ie
