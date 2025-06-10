@@ -18,7 +18,6 @@
 
 
 ## Relevance to Project
-
 - Feature Vectors: To use cosine similarity, you’ll turn song data into numerical vectors. For example:
 - A song by “ABBA” with a “pop” genre might be a vector like [1, 0, 120] (1 for ABBA, 0 for another artist, 120 for tempo).
 - Another ABBA song with tempo 125 might be [1, 0, 125].
