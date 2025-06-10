@@ -52,5 +52,12 @@ This project is a hands-on learning experience to deepen my understanding of:
 - Created `ml_notes.md` to summarize machine learning concepts, including content-based filtering and cosine similarity, based on beginner resources.
 - Synced the repository with GitHub and pulling updates.
 
+## Things I Did on Day 3
+- Created and tested `python_practice.py` to reinforce basic Python skills, practicing dictionaries, loops, functions, and error handling with a sample song dataset.
+- Enhanced `load_data.py` to explore the Spotify Million Song Dataset using pandas, performing tasks like filtering ABBA songs, checking missing values, and counting songs per artist.
+- Successfully ran the updated script and saved a filtered dataset (`abba_songs.csv`), gaining hands-on experience with data manipulation.
+- Committed and pushed both scripts to GitHub, ensuring my progress is tracked.
+- Optionally explored converting the `.csv` to a table view in IntelliJ, experimenting with console output or a Jupyter Notebook to visualize the data.
+
 ## Contact
 For feedback or questions, reach out via GitHub or at kartik.saraswat@ucdconnect.ie
