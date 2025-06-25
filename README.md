@@ -59,5 +59,30 @@ This project is a hands-on learning experience to deepen my understanding of:
 - Committed and pushed both scripts to GitHub, ensuring my progress is tracked.
 - Optionally explored converting the `.csv` to a table view in IntelliJ, experimenting with console output or a Jupyter Notebook to visualize the data.
 
+## Things I Did on Day 4
+- Inspected the ABBA song subset (113 songs) extracted from the Spotify Million Song Dataset to identify data quality.
+- Cleaned the dataset by removing duplicate songs, standardizing song names to title case, and filtering out texts shorter than 10 characters.
+- Saved the cleaned ABBA dataset as `abba_songs_cleaned.csv` for future use.
+- Committed changes to GitHub to track progress.
+
+## Things I Did on Day 5
+- Created `preprocess.py` to extract features from the cleaned ABBA dataset.
+- Added features: word count and average word length from song lyrics to enhance data for analysis.
+- Saved the enhanced dataset as `abba_songs_featured.csv` for future use.
+- Committed changes to GitHub to track progress.
+
+## Things I Did on Day 6
+- Created `eda.py` to perform Exploratory Data Analysis on the ABBA dataset.
+- Visualized word count distribution and average word length using histograms and bar charts.
+- Analyzed statistical summary: word count (mean 250.43, range 97–566), average word length (mean 3.99, range 3.06–4.96).
+- Found a weak correlation (-0.02) between word count and average word length, indicating no strong relationship.
+- Committed changes to GitHub to track progress.
+
+## Things I Did on Day 7
+- Enhanced `eda.py` to analyze common words in ABBA song lyrics with visualizations, identifying top words like "love".
+- Optionally removed stop words (e.g., "the", "and") using NLTK to focus on meaningful terms.
+- Started `model_prep.py` to prepare TF-IDF features from song lyrics for recommendation modeling, extracting approximately 500 features.
+- Committed changes to GitHub to track progress.
+
 ## Contact
 For feedback or questions, reach out via GitHub or at kartik.saraswat@ucdconnect.ie
